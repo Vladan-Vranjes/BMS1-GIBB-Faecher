@@ -17,6 +17,6 @@ Projekte und Prüfungen meiner BMS1
 ### Jahr 2
 
 ### Jahr 3
-- [WR Jahr 1](Jahr1-WirtschaftUndRecht)
+- [WR Jahr 3](Jahr-3-WirtschaftUndRecht)
 - 
 ### Jahr 4
